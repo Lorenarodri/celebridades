@@ -1,0 +1,24 @@
+#divCard {
+    width: 22rem;
+    display: inline-flex;
+    margin: 70px;
+    border: solid 3px rgb(191, 46, 224);
+    /* background-color: rgba(69, 165, 225, 0.659); */
+}
+
+#nombre_tarjeta {
+    text-align: center;
+    color: rgb(41, 75, 186);
+}
+
+#seccion_celebridades {
+    background: url('https://p1.pxfuel.com/preview/153/612/948/gears-logo-concept-expressionless.jpg');
+}
+
+/* #boton_favoritos {
+    
+} */
+
+#lista_detalles {
+    border: rgb(244, 75, 250);
+}

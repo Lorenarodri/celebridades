@@ -1,0 +1,21 @@
+#cuerpo_login {
+    /*background-color: rgba(150, 231, 194, 0.762);*/
+    background: url('https://cdn.pixabay.com/photo/2022/12/03/02/35/frame-7632002_1280.png');
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    border: solid 5px rgb(158, 32, 236);
+}
+
+#titulo_login {
+    color: rgb(57, 6, 116);
+    text-align: center;
+    margin-top: 50px;
+}
+
+#cargando {
+    background-color: rgba(150, 231, 194, 0.762);
+    text-align: center;
+    margin: 30px;
+    border: solid 5px rgb(123, 8, 146);
+}

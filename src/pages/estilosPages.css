@@ -1,0 +1,26 @@
+#seccion_usuario {
+    background: url('https://p1.pxfuel.com/preview/153/612/948/gears-logo-concept-expressionless.jpg');
+}
+
+#imagen_perfil {
+    margin-top: 25px;
+}
+
+#seccion_usuario2 {
+    border: solid 3px rgb(18, 93, 213);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+#seccion_tabla {
+    margin: 20px;
+    padding: 10px;
+}
